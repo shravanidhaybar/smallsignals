@@ -1,6 +1,18 @@
 # smallsignals
 finding small security signals before they become incidents 
 
+# Mini SOC Detection Lab
+
+This repository documents my learning process in understanding
+basic SOC concepts and detection thinking.
+
+I am focusing on learning fundamentals such as logs, alerts,
+and how security analysts identify suspicious activity.
+
+This is a learning-based repository, not a production project.
+
+
+
 # Security Learning Journal
 
 This repository documents my journey learning cybersecurity from scratch.
