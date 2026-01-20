@@ -41,3 +41,5 @@ What I will improve tomorrow:
 - Start TryHackMe networking room
 
 Time spent: 2 hours
+
+Day-by-day learning notes are documented to track my understanding growth.
